@@ -1,0 +1,35 @@
+_repo: In-the-Days-of-the-Comet_3797
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: In this 1906 novel, a comet's mysterious green fog causes a profound
+  transformation of the world. William Leadford, a young Socialist student, seeks
+  both improvements in labor conditions and revenge on the middle-class Nettie for
+  spurning his love. On the evening he plans to kill Nettie, a comet enters the atmosphere
+  and emits a sleep-inducing fog. William awakens to a new world in which he finds
+  peace of mind, peace among nations, and no industrial pollution.
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comets -- Collisions with Earth -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Political fiction'
+- !lcc 'PR'
+- !lcsh 'Utopias -- Fiction'
+- GITenberg
+title: In the Days of the Comet
+url: http://www.gutenberg.org/ebooks/3797
