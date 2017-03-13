@@ -1,5 +1,8 @@
 _repo: In-the-Days-of-the-Comet_3797
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -15,6 +18,8 @@ description: In this 1906 novel, a comet's mysterious green fog causes a profoun
   spurning his love. On the evening he plans to kill Nettie, a comet enters the atmosphere
   and emits a sleep-inducing fog. William awakens to a new world in which he finds
   peace of mind, peace among nations, and no industrial pollution.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3797#In-the-Days-of-the-Comet
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
 identifiers:
